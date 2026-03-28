@@ -7,21 +7,27 @@ Relive the classic Game Boy vibe with **Player One**, a retro-inspired green-on-
 
 ---
 
-## Color Palette
+## 🎨 Color Palette
 
-Here’s a quick look at the colors in **Player One**:
+A curated set of Game Boy–inspired green tones used throughout **Player One**:
 
-| Color | Hex | Example |
-|-------|-----|---------|
-| Background | #0f380f | ![#0f380f](https://via.placeholder.com/30/0f380f/0f380f.png) |
-| Foreground | #8bac0f | ![#8bac0f](https://via.placeholder.com/30/8bac0f/8bac0f.png) |
-| Keyword | #8fb32b | ![#8fb32b](https://via.placeholder.com/30/8fb32b/8fb32b.png) |
-| String | #6baa30 | ![#6baa30](https://via.placeholder.com/30/6baa30/6baa30.png) |
-| Comment | #4f7942 | ![#4f7942](https://via.placeholder.com/30/4f7942/4f7942.png) |
-| Number | #a2d149 | ![#a2d149](https://via.placeholder.com/30/a2d149/a2d149.png) |
+| Role | Hex | Preview |
+|------|-----|---------|
+| Background | #0f1b0f | ![#0f1b0f](https://via.placeholder.com/30/0f1b0f/0f1b0f.png) |
+| Editor Alt Background | #0b140b | ![#0b140b](https://via.placeholder.com/30/0b140b/0b140b.png) |
+| Foreground | #c7d7a4 | ![#c7d7a4](https://via.placeholder.com/30/c7d7a4/c7d7a4.png) |
+| Primary Accent | #9bbc0f | ![#9bbc0f](https://via.placeholder.com/30/9bbc0f/9bbc0f.png) |
+| Secondary Accent | #8bac0f | ![#8bac0f](https://via.placeholder.com/30/8bac0f/8bac0f.png) |
+| Tertiary Accent | #7fa84f | ![#7fa84f](https://via.placeholder.com/30/7fa84f/7fa84f.png) |
+| Muted Green | #6b8e23 | ![#6b8e23](https://via.placeholder.com/30/6b8e23/6b8e23.png) |
+| Comment / Subtle | #5f7a5f | ![#5f7a5f](https://via.placeholder.com/30/5f7a5f/5f7a5f.png) |
+| Dark Accent | #4f7f4f | ![#4f7f4f](https://via.placeholder.com/30/4f7f4f/4f7f4f.png) |
+| UI Highlight | #2a3f2a | ![#2a3f2a](https://via.placeholder.com/30/2a3f2a/2a3f2a.png) |
+| UI Hover | #172617 | ![#172617](https://via.placeholder.com/30/172617/172617.png) |
+| UI Subtle | #132113 | ![#132113](https://via.placeholder.com/30/132113/132113.png) |
+| Error | #df2828 | ![#df2828](https://via.placeholder.com/30/df2828/df2828.png) |
 
-> *These are sample colors — replace with your actual theme colors from your `.json` file.*
-
+> Inspired by the original Game Boy’s iconic monochrome green display.
 ---
 
 ## Installation
