@@ -1,9 +1,10 @@
-# Change Log
+## [0.4.0] - 2026-03-28
 
-All notable changes to the "organic" extension will be documented in this file.
+### Changed
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+- Updated README with improved formatting and theme preview
+- Minor improvements to marketplace presentation
 
-## [Unreleased]
+### Fixed
 
-- Initial release
+- Fixed README not displaying correctly on marketplace
