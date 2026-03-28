@@ -2,7 +2,7 @@
 
 Relive the classic Game Boy vibe with **Player One**, a retro-inspired green-on-black theme for VS Code.
 
-<img width="2560" height="1356" alt="image" src="https://github.com/user-attachments/assets/e8f1c9d2-e2b0-409e-93f7-f9facdbfd4e9" />
+<img width="2560" height="1356" alt="image" src="https://github.com/user-attachments/assets/589f5ada-c25f-4b85-afbf-a12bf21c6dd3" />
 
 ---
 
