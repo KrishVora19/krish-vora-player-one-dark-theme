@@ -41,12 +41,6 @@ Here’s a quick look at the colors in **Player One**:
 
 ---
 
-## Contributing
-
-Feel free to suggest tweaks, report issues, or make pull requests for additional color variants. Feedback is always welcome!  
-
----
-
 ## License
 
-MIT License © [Krish Vora](https://github.com/krishvora)
+MIT License © [Krish Vora](https://github.com/KrishVora19)
