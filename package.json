@@ -1,16 +1,25 @@
 {
-  "name": "player_one",
+  "name": "player-one",
   "displayName": "Player One",
   "description": "Retro Game Theme VSCode Theme",
   "publisher": "KrishVora",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.106.1"
   },
   "repository": {
-    "type": "git"
-
+    "type": "git",
+    "url": "https://github.com/KrishVora19/krish-vora-player-one-dark-theme"
   },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "krish vora",
+    "krish vora theme",
+    "player one",
+    "gameboy",
+    "game theme"
+  ],
   "categories": [
     "Themes"
   ],
@@ -21,6 +30,7 @@
         "uiTheme": "vs-dark",
         "path": "./themes/PlayerOne-color-theme.json"
       }
-    ]
+    ],
+    "license": "MIT"
   }
 }
